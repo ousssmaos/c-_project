@@ -1,4 +1,4 @@
-# c-_project
+# course
 for zero web school course
 
 
